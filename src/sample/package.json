@@ -1,0 +1,16 @@
+{
+  "name": "sample",
+  "description": "sample",
+  "version": "0.0.0",
+  "author": "こぴぺたん <@c_a_p_engineer>",
+  "scripts": {
+    "build": "vivliostyle build --no-sandbox",
+    "preview": "vivliostyle preview --no-sandbox"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest",
+    "@vivliostyle/theme-techbook": "^0.3.1"
+  },
+  "license": "MIT",
+  "private": true
+}

@@ -1,0 +1,35 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "author": "こぴぺたん <@c_a_p_engineer>",
+  "dateModified": "2021-07-18T18:31:25.841Z",
+  "name": "sample",
+  "readingOrder": [
+    {
+      "url": "book/index.html",
+      "title": "sample"
+    },
+    {
+      "url": "book/01.html",
+      "title": "sample"
+    },
+    {
+      "url": "book/02.html",
+      "title": "sample"
+    },
+    {
+      "url": "book/03.html",
+      "title": "sample"
+    },
+    {
+      "url": "book/colophon.html",
+      "title": "sample"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
