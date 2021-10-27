@@ -1,12 +1,12 @@
 version: '3'
 services: 
   vivliostyle:
-      container_name: vivliostyle
+      container_name: VivlioStyle
       build:
-          context: ./Docker/Ubuntu
+          context: ./Docker/VivlioStyle
       ports:
           - "6080:80"
       volumes:
-          - "./src:/src"
+          - ${APP_CODE_PATH_HOST}:${APP_CODE_PATH_CONTAINER}
       working_dir: /src
       tty: true

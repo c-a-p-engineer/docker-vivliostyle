@@ -9,6 +9,7 @@ npm ci
 ```
 
 ## 作成
+* 本を作成
 ```
 npm create book <directory>
 ```
@@ -36,12 +37,12 @@ npm create book <directory>
 
 ```
 
-pdf 作成
+* pdf 作成
 ```
 npm run build
 ```
 
-プレビュー
+* プレビュー
 ```
 npm run preview
 ```
@@ -69,7 +70,7 @@ entry: [
 ```
 
 ## 参考
-* (Vivliostyle — 楽しく CSS 組版！)[https://vivliostyle.org/ja/]
-* (Vivliostyle ドキュメント | docs.vivliostyle.org)[https://docs.vivliostyle.org/ja/]
-* (Vivliostyle：とにかくCreate Bookのサンプルをビルドしてみる（中編その1）)[https://zenn.dev/sky_y/articles/markdown-advent-2020-vivliostyle2]
-* (Vivliostyle: 技術同人誌をつくって入稿用PDFをビルドする（後編）)[https://zenn.dev/sky_y/articles/markdown-advent-2020-vivliostyle4]
+* [Vivliostyle — 楽しく CSS 組版！](https://vivliostyle.org/ja/)
+* [Vivliostyle ドキュメント | docs.vivliostyle.org](https://docs.vivliostyle.org/ja/)
+* [Vivliostyle：とにかくCreate Bookのサンプルをビルドしてみる（中編その1）](https://zenn.dev/sky_y/articles/markdown-advent-2020-vivliostyle2)
+* [Vivliostyle: 技術同人誌をつくって入稿用PDFをビルドする（後編）](https://zenn.dev/sky_y/articles/markdown-advent-2020-vivliostyle4)
